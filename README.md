@@ -6,3 +6,6 @@ html tag is the basic building block of any html page
 
 everything in the html lies within <html> </html> tag
 
+
+Inline elements do not starts a new line. Block level elements starts a new line.
+
