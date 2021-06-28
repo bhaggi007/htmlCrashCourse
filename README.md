@@ -22,3 +22,5 @@ Inline elements: <span> <img> <a>
 Block elelments: <div> <h1>-<h6> <p> <form>
 
 All tags can have attributes. It provides information about an element. Attributes are placed within the start tag. And they are always provided in some key/value pairs. (id="someid")
+
+HTML 5 semantic tags clearly describe their meaning to both the developer and browser.
